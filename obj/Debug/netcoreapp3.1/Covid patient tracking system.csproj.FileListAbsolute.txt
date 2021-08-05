@@ -1,0 +1,23 @@
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\Covid patient tracking system.exe
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\Covid patient tracking system.deps.json
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\Covid patient tracking system.runtimeconfig.json
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\Covid patient tracking system.runtimeconfig.dev.json
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\Covid patient tracking system.dll
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\Covid patient tracking system.pdb
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Covid patient tracking system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.csprojAssemblyReference.cache
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid_patient_tracking_system.Form1.resources
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.csproj.GenerateResource.cache
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.AssemblyInfoInputs.cache
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.AssemblyInfo.cs
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.csproj.CoreCompileInputs.cache
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.csproj.CopyComplete
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.dll
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.pdb
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid patient tracking system.genruntimeconfig.cache
+D:\Covid patient tracking system\obj\Debug\netcoreapp3.1\Covid_patient_tracking_system.Properties.Resources.resources
